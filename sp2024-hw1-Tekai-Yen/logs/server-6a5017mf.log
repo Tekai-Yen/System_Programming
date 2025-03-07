@@ -1,0 +1,40 @@
+
+starting on TEKAI, port 35535, fd 8, maxconn 1024...
+getting a new request... fd 9 from 127.0.0.1
+getting a new request... fd 10 from 127.0.0.1
+getting a new request... fd 11 from 127.0.0.1
+getting a new request... fd 12 from 127.0.0.1
+getting a new request... fd 13 from 127.0.0.1
+getting a new request... fd 14 from 127.0.0.1
+getting a new request... fd 15 from 127.0.0.1
+getting a new request... fd 16 from 127.0.0.1
+getting a new request... fd 17 from 127.0.0.1
+getting a new request... fd 18 from 127.0.0.1
+getting a new request... fd 19 from 127.0.0.1
+getting a new request... fd 20 from 127.0.0.1
+getting a new request... fd 21 from 127.0.0.1
+getting a new request... fd 22 from 127.0.0.1
+getting a new request... fd 23 from 127.0.0.1
+getting a new request... fd 24 from 127.0.0.1
+getting a new request... fd 25 from 127.0.0.1
+getting a new request... fd 26 from 127.0.0.1
+getting a new request... fd 27 from 127.0.0.1
+getting a new request... fd 28 from 127.0.0.1
+getting a new request... fd 29 from 127.0.0.1
+getting a new request... fd 30 from 127.0.0.1
+getting a new request... fd 31 from 127.0.0.1
+getting a new request... fd 32 from 127.0.0.1
+getting a new request... fd 33 from 127.0.0.1
+getting a new request... fd 34 from 127.0.0.1
+getting a new request... fd 35 from 127.0.0.1
+0 0 0 0
+0 0 0 0
+0 1 0 1
+0 1 0 0
+0 0 1 0
+0 0 0 0
+0 0 1 0
+1 0 0 0
+0 0 0 0
+0 0 0 0
+NOW IS SEAT STATUS

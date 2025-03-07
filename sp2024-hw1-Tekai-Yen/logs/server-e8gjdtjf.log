@@ -1,0 +1,430 @@
+
+starting on TEKAI, port 37685, fd 8, maxconn 1024...
+getting a new request... fd 9 from 127.0.0.1
+getting a new request... fd 10 from 127.0.0.1
+getting a new request... fd 11 from 127.0.0.1
+getting a new request... fd 12 from 127.0.0.1
+getting a new request... fd 13 from 127.0.0.1
+getting a new request... fd 14 from 127.0.0.1
+getting a new request... fd 15 from 127.0.0.1
+getting a new request... fd 16 from 127.0.0.1
+getting a new request... fd 17 from 127.0.0.1
+getting a new request... fd 18 from 127.0.0.1
+getting a new request... fd 19 from 127.0.0.1
+getting a new request... fd 20 from 127.0.0.1
+getting a new request... fd 21 from 127.0.0.1
+getting a new request... fd 22 from 127.0.0.1
+getting a new request... fd 23 from 127.0.0.1
+getting a new request... fd 24 from 127.0.0.1
+getting a new request... fd 25 from 127.0.0.1
+getting a new request... fd 26 from 127.0.0.1
+getting a new request... fd 27 from 127.0.0.1
+getting a new request... fd 28 from 127.0.0.1
+getting a new request... fd 29 from 127.0.0.1
+getting a new request... fd 30 from 127.0.0.1
+getting a new request... fd 31 from 127.0.0.1
+getting a new request... fd 32 from 127.0.0.1
+getting a new request... fd 33 from 127.0.0.1
+getting a new request... fd 34 from 127.0.0.1
+getting a new request... fd 35 from 127.0.0.1
+getting a new request... fd 36 from 127.0.0.1
+getting a new request... fd 37 from 127.0.0.1
+getting a new request... fd 38 from 127.0.0.1
+getting a new request... fd 39 from 127.0.0.1
+getting a new request... fd 40 from 127.0.0.1
+getting a new request... fd 41 from 127.0.0.1
+getting a new request... fd 42 from 127.0.0.1
+getting a new request... fd 43 from 127.0.0.1
+getting a new request... fd 44 from 127.0.0.1
+getting a new request... fd 45 from 127.0.0.1
+getting a new request... fd 46 from 127.0.0.1
+getting a new request... fd 47 from 127.0.0.1
+getting a new request... fd 48 from 127.0.0.1
+getting a new request... fd 49 from 127.0.0.1
+getting a new request... fd 50 from 127.0.0.1
+getting a new request... fd 51 from 127.0.0.1
+getting a new request... fd 52 from 127.0.0.1
+getting a new request... fd 53 from 127.0.0.1
+getting a new request... fd 54 from 127.0.0.1
+getting a new request... fd 55 from 127.0.0.1
+getting a new request... fd 56 from 127.0.0.1
+getting a new request... fd 57 from 127.0.0.1
+getting a new request... fd 58 from 127.0.0.1
+getting a new request... fd 59 from 127.0.0.1
+getting a new request... fd 60 from 127.0.0.1
+getting a new request... fd 61 from 127.0.0.1
+getting a new request... fd 62 from 127.0.0.1
+getting a new request... fd 63 from 127.0.0.1
+getting a new request... fd 64 from 127.0.0.1
+getting a new request... fd 65 from 127.0.0.1
+getting a new request... fd 66 from 127.0.0.1
+getting a new request... fd 67 from 127.0.0.1
+getting a new request... fd 68 from 127.0.0.1
+getting a new request... fd 69 from 127.0.0.1
+getting a new request... fd 70 from 127.0.0.1
+getting a new request... fd 71 from 127.0.0.1
+getting a new request... fd 72 from 127.0.0.1
+getting a new request... fd 73 from 127.0.0.1
+getting a new request... fd 74 from 127.0.0.1
+getting a new request... fd 75 from 127.0.0.1
+getting a new request... fd 76 from 127.0.0.1
+getting a new request... fd 77 from 127.0.0.1
+getting a new request... fd 78 from 127.0.0.1
+getting a new request... fd 79 from 127.0.0.1
+getting a new request... fd 80 from 127.0.0.1
+getting a new request... fd 81 from 127.0.0.1
+getting a new request... fd 82 from 127.0.0.1
+getting a new request... fd 83 from 127.0.0.1
+getting a new request... fd 84 from 127.0.0.1
+getting a new request... fd 85 from 127.0.0.1
+getting a new request... fd 86 from 127.0.0.1
+getting a new request... fd 87 from 127.0.0.1
+getting a new request... fd 88 from 127.0.0.1
+getting a new request... fd 89 from 127.0.0.1
+getting a new request... fd 90 from 127.0.0.1
+getting a new request... fd 91 from 127.0.0.1
+getting a new request... fd 92 from 127.0.0.1
+getting a new request... fd 93 from 127.0.0.1
+getting a new request... fd 94 from 127.0.0.1
+getting a new request... fd 95 from 127.0.0.1
+getting a new request... fd 96 from 127.0.0.1
+getting a new request... fd 97 from 127.0.0.1
+getting a new request... fd 98 from 127.0.0.1
+getting a new request... fd 99 from 127.0.0.1
+getting a new request... fd 100 from 127.0.0.1
+getting a new request... fd 101 from 127.0.0.1
+getting a new request... fd 102 from 127.0.0.1
+getting a new request... fd 103 from 127.0.0.1
+getting a new request... fd 104 from 127.0.0.1
+getting a new request... fd 105 from 127.0.0.1
+getting a new request... fd 106 from 127.0.0.1
+getting a new request... fd 107 from 127.0.0.1
+getting a new request... fd 108 from 127.0.0.1
+getting a new request... fd 109 from 127.0.0.1
+getting a new request... fd 110 from 127.0.0.1
+getting a new request... fd 111 from 127.0.0.1
+getting a new request... fd 112 from 127.0.0.1
+getting a new request... fd 113 from 127.0.0.1
+getting a new request... fd 114 from 127.0.0.1
+getting a new request... fd 115 from 127.0.0.1
+getting a new request... fd 116 from 127.0.0.1
+getting a new request... fd 117 from 127.0.0.1
+getting a new request... fd 118 from 127.0.0.1
+getting a new request... fd 119 from 127.0.0.1
+getting a new request... fd 120 from 127.0.0.1
+getting a new request... fd 121 from 127.0.0.1
+getting a new request... fd 122 from 127.0.0.1
+getting a new request... fd 123 from 127.0.0.1
+getting a new request... fd 124 from 127.0.0.1
+getting a new request... fd 125 from 127.0.0.1
+getting a new request... fd 126 from 127.0.0.1
+getting a new request... fd 127 from 127.0.0.1
+getting a new request... fd 128 from 127.0.0.1
+getting a new request... fd 129 from 127.0.0.1
+getting a new request... fd 130 from 127.0.0.1
+getting a new request... fd 131 from 127.0.0.1
+getting a new request... fd 132 from 127.0.0.1
+getting a new request... fd 133 from 127.0.0.1
+getting a new request... fd 134 from 127.0.0.1
+getting a new request... fd 135 from 127.0.0.1
+getting a new request... fd 136 from 127.0.0.1
+getting a new request... fd 137 from 127.0.0.1
+getting a new request... fd 138 from 127.0.0.1
+getting a new request... fd 139 from 127.0.0.1
+getting a new request... fd 140 from 127.0.0.1
+getting a new request... fd 141 from 127.0.0.1
+getting a new request... fd 142 from 127.0.0.1
+getting a new request... fd 143 from 127.0.0.1
+getting a new request... fd 144 from 127.0.0.1
+getting a new request... fd 145 from 127.0.0.1
+getting a new request... fd 146 from 127.0.0.1
+getting a new request... fd 147 from 127.0.0.1
+getting a new request... fd 148 from 127.0.0.1
+getting a new request... fd 149 from 127.0.0.1
+getting a new request... fd 150 from 127.0.0.1
+getting a new request... fd 151 from 127.0.0.1
+getting a new request... fd 152 from 127.0.0.1
+getting a new request... fd 153 from 127.0.0.1
+getting a new request... fd 154 from 127.0.0.1
+getting a new request... fd 155 from 127.0.0.1
+getting a new request... fd 156 from 127.0.0.1
+getting a new request... fd 157 from 127.0.0.1
+getting a new request... fd 158 from 127.0.0.1
+getting a new request... fd 159 from 127.0.0.1
+getting a new request... fd 160 from 127.0.0.1
+getting a new request... fd 161 from 127.0.0.1
+getting a new request... fd 162 from 127.0.0.1
+getting a new request... fd 163 from 127.0.0.1
+getting a new request... fd 164 from 127.0.0.1
+getting a new request... fd 165 from 127.0.0.1
+getting a new request... fd 166 from 127.0.0.1
+getting a new request... fd 167 from 127.0.0.1
+getting a new request... fd 168 from 127.0.0.1
+getting a new request... fd 169 from 127.0.0.1
+getting a new request... fd 170 from 127.0.0.1
+getting a new request... fd 171 from 127.0.0.1
+getting a new request... fd 172 from 127.0.0.1
+getting a new request... fd 173 from 127.0.0.1
+getting a new request... fd 174 from 127.0.0.1
+getting a new request... fd 175 from 127.0.0.1
+getting a new request... fd 176 from 127.0.0.1
+getting a new request... fd 177 from 127.0.0.1
+getting a new request... fd 178 from 127.0.0.1
+getting a new request... fd 179 from 127.0.0.1
+getting a new request... fd 180 from 127.0.0.1
+getting a new request... fd 181 from 127.0.0.1
+getting a new request... fd 182 from 127.0.0.1
+getting a new request... fd 183 from 127.0.0.1
+getting a new request... fd 184 from 127.0.0.1
+getting a new request... fd 185 from 127.0.0.1
+getting a new request... fd 186 from 127.0.0.1
+getting a new request... fd 187 from 127.0.0.1
+getting a new request... fd 188 from 127.0.0.1
+getting a new request... fd 189 from 127.0.0.1
+getting a new request... fd 190 from 127.0.0.1
+getting a new request... fd 191 from 127.0.0.1
+getting a new request... fd 192 from 127.0.0.1
+getting a new request... fd 193 from 127.0.0.1
+getting a new request... fd 194 from 127.0.0.1
+getting a new request... fd 195 from 127.0.0.1
+getting a new request... fd 196 from 127.0.0.1
+getting a new request... fd 197 from 127.0.0.1
+getting a new request... fd 198 from 127.0.0.1
+getting a new request... fd 199 from 127.0.0.1
+getting a new request... fd 200 from 127.0.0.1
+getting a new request... fd 201 from 127.0.0.1
+getting a new request... fd 202 from 127.0.0.1
+getting a new request... fd 203 from 127.0.0.1
+getting a new request... fd 204 from 127.0.0.1
+getting a new request... fd 205 from 127.0.0.1
+getting a new request... fd 206 from 127.0.0.1
+getting a new request... fd 207 from 127.0.0.1
+getting a new request... fd 208 from 127.0.0.1
+0 0 1 0
+0 0 0 0
+0 0 0 0
+0 0 0 1
+0 0 0 0
+0 0 0 0
+0 1 0 1
+1 0 0 1
+0 0 0 0
+0 0 0 0
+NOW IS SEAT STATUS
+0 0 1 0
+0 0 0 0
+0 0 0 0
+0 0 0 1
+0 0 0 0
+0 0 0 0
+0 1 0 1
+1 0 0 1
+0 0 0 0
+0 0 0 0
+NOW IS SEAT STATUS
+0 0 0 0
+0 0 0 1
+0 0 0 0
+1 0 0 0
+0 0 1 0
+0 0 0 1
+0 0 0 0
+0 0 0 1
+0 0 0 0
+0 0 0 1
+NOW IS SEAT STATUS
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+getting a new request... fd 61 from 127.0.0.1
+0 0 0 0
+0 0 0 1
+0 0 0 0
+1 0 0 0
+0 0 1 0
+0 0 0 1
+0 0 0 0
+0 0 0 1
+0 0 0 0
+0 0 0 1
+NOW IS SEAT STATUS
+0 0 0 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 1 0
+0 0 0 0
+0 0 0 0
+0 0 1 0
+0 1 0 0
+NOW IS SEAT STATUS
+0 0 1 0
+0 0 0 0
+0 0 0 0
+0 0 0 1
+0 0 0 0
+0 0 0 0
+0 1 0 1
+1 0 0 1
+0 0 0 0
+0 0 0 0
+NOW IS SEAT STATUS
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+0 0 0 0
+0 0 0 1
+0 0 0 0
+1 0 0 0
+0 0 1 0
+0 0 0 1
+0 0 0 0
+0 0 0 1
+0 0 0 0
+0 0 0 1
+NOW IS SEAT STATUS
+0 0 0 0
+0 1 0 0
+0 1 1 0
+0 0 0 0
+0 0 0 0
+0 1 0 0
+0 0 0 0
+0 0 1 1
+0 0 0 1
+1 1 0 1
+NOW IS SEAT STATUS
+0 0 0 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 1 0
+0 0 0 0
+0 0 0 0
+0 0 1 0
+0 1 0 0
+NOW IS SEAT STATUS
+0 0 1 0
+0 0 0 0
+0 0 0 0
+0 0 0 1
+0 0 0 0
+0 0 0 0
+0 1 0 1
+1 0 0 1
+0 0 0 0
+0 0 0 0
+NOW IS SEAT STATUS
+0 0 0 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 1 0
+0 0 0 0
+0 0 0 0
+0 0 1 0
+0 1 0 0
+NOW IS SEAT STATUS
+0 0 0 0
+0 0 0 1
+0 0 0 0
+1 0 0 0
+0 0 1 0
+0 0 0 1
+0 0 0 0
+0 0 0 1
+0 0 0 0
+0 0 0 1
+NOW IS SEAT STATUS
+0 0 0 0
+0 0 0 1
+0 0 0 0
+1 0 0 0
+0 0 1 0
+0 0 0 1
+0 0 0 0
+0 0 0 1
+0 0 0 0
+0 0 0 1
+NOW IS SEAT STATUS
+0 0 0 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 1 0
+0 0 0 0
+0 0 0 0
+0 0 1 0
+0 1 0 0
+NOW IS SEAT STATUS
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+0 0 0 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 1 0
+0 0 0 0
+0 0 0 0
+0 0 1 0
+0 1 0 0
+NOW IS SEAT STATUS
+0 0 0 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 1 0
+0 0 0 0
+0 0 0 0
+0 0 1 0
+0 1 0 0
+NOW IS SEAT STATUS
+0 0 0 0
+0 1 0 0
+0 1 1 0
+0 0 0 0
+0 0 0 0
+0 1 0 0
+0 0 0 0
+0 0 1 1
+0 0 0 1
+1 1 0 1
+NOW IS SEAT STATUS

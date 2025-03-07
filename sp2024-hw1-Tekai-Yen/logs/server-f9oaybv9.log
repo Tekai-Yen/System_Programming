@@ -1,0 +1,9 @@
+
+starting on TEKAI, port 50959, fd 8, maxconn 1024...
+getting a new request... fd 9 from 127.0.0.1
+TTT 0 TTT
+getting a new request... fd 10 from 127.0.0.1
+TTT 0 TTT
+TTT 0 TTT
+wrong shift number
+TTT 0 TTT
